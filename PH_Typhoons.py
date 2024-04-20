@@ -17,10 +17,8 @@ def app():
     st.subheader('RNN-LSTM Based Typhoon Prediction in the Philippines')
     
     text = """Roan H. Jagunap (BSCS 3B - AI)
-    \nCCS 229 - Intelligent Systems
-    *Bachelor of Science in Computer Science
-    *College of Information and Communications Technology
-    *##West Visayas State University##"""
+    \nCCS 229 - Intelligent Systems | Bachelor of Science in Computer Science
+    \nCollege of Information and Communications Technology | West Visayas State University"""
     st.text(text)
 
     text = """This Streamlit app utilizes a bi-directional Recurrent Neural Network 
